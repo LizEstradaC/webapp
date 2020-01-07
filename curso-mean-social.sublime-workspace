@@ -1,0 +1,1173 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"i",
+				"identity"
+			],
+			[
+				"co",
+				"commment"
+			],
+			[
+				"com",
+				"comentario"
+			],
+			[
+				"come",
+				"Comentar"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"h",
+				"h5\tTag"
+			],
+			[
+				"ne",
+				"newpublication"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"re",
+				"res"
+			],
+			[
+				"pu",
+				"publication"
+			],
+			[
+				"publi",
+				"publication"
+			],
+			[
+				"publica",
+				"publicación"
+			],
+			[
+				"sva",
+				"saveCompartir"
+			],
+			[
+				"comp",
+				"compartir"
+			],
+			[
+				"pub",
+				"publications"
+			],
+			[
+				"li",
+				"liked"
+			],
+			[
+				"num",
+				"numberOfLikes"
+			],
+			[
+				"get",
+				"getItem"
+			],
+			[
+				"lo",
+				"localStorage"
+			],
+			[
+				"stat",
+				"stats"
+			],
+			[
+				"su",
+				"subscribe"
+			],
+			[
+				"st",
+				"stats"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"s",
+				"SidebarComponent"
+			],
+			[
+				"fol",
+				"followed"
+			],
+			[
+				"folo",
+				"followed_clean"
+			],
+			[
+				"followi",
+				"following_clean"
+			],
+			[
+				"fo",
+				"following"
+			],
+			[
+				"follo",
+				"follows"
+			],
+			[
+				"ge",
+				"getImageFile"
+			],
+			[
+				"up",
+				"uploadImage"
+			],
+			[
+				"sa",
+				"savePublication"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"Us",
+				"UserService"
+			],
+			[
+				"Ht",
+				"HttpClient"
+			],
+			[
+				"H",
+				"HttpClientModule"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding-bottom\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"va",
+				"valid"
+			],
+			[
+				"ap",
+				"appRoutingProviders"
+			],
+			[
+				"Rou",
+				"RouterModule"
+			],
+			[
+				"R",
+				"RegisterComponent"
+			],
+			[
+				"compon",
+				"component"
+			],
+			[
+				"ba",
+				"background\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"me",
+				"mejor_juego_retro"
+			],
+			[
+				"p",
+				"public"
+			],
+			[
+				"mejor",
+				"mejor_juego"
+			],
+			[
+				"c",
+				"center\ttext-align"
+			],
+			[
+				"use",
+				"UserController"
+			],
+			[
+				"han",
+				"handleError"
+			],
+			[
+				"ex",
+				"exec"
+			],
+			[
+				"followe",
+				"followed_clean"
+			],
+			[
+				"ide",
+				"identity_user_id"
+			],
+			[
+				"fin",
+				"findOne"
+			],
+			[
+				"foll",
+				"follows"
+			],
+			[
+				"md",
+				"md_auth"
+			],
+			[
+				"ima",
+				"imagen"
+			],
+			[
+				"path",
+				"path_file"
+			],
+			[
+				"im",
+				"imageFile"
+			],
+			[
+				"fil",
+				"file_name"
+			],
+			[
+				"fi",
+				"file_path"
+			],
+			[
+				"file",
+				"file_path"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"upd",
+				"updateUser"
+			],
+			[
+				"getU",
+				"getUsers"
+			],
+			[
+				"au",
+				"authoriation"
+			],
+			[
+				"b",
+				"bcrypt"
+			],
+			[
+				"se",
+				"send"
+			],
+			[
+				"Follo",
+				"FollowSchema"
+			],
+			[
+				"Publi",
+				"PublicationSchema"
+			],
+			[
+				"Use",
+				"UserSchema"
+			],
+			[
+				"z",
+				"z-index\tproperty"
+			],
+			[
+				"noticias",
+				"noticias_consultas"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"bo",
+				"bolder\tfont-weight"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"margin-",
+				"margin-top\tproperty"
+			],
+			[
+				"imp",
+				"@import\t@import url(${0});"
+			],
+			[
+				"font-",
+				"font-family\tproperty"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"tra",
+				"tradiciones_culturas"
+			],
+			[
+				"id_c",
+				"id_categorias_fk"
+			],
+			[
+				"resta",
+				"restaurantes"
+			],
+			[
+				"max",
+				"max-height\tproperty"
+			],
+			[
+				"res",
+				"restaurantes"
+			],
+			[
+				"mari",
+				"margin\tproperty"
+			],
+			[
+				"padin",
+				"padding\tproperty"
+			],
+			[
+				"bind",
+				"bindtextdomain"
+			],
+			[
+				"hote",
+				"Hoteles"
+			],
+			[
+				"ht",
+				"html"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"jus",
+				"justify\ttext-align"
+			],
+			[
+				"n",
+				"n_aleatorio"
+			],
+			[
+				"fech",
+				"fecha"
+			],
+			[
+				"padi",
+				"padding\tproperty"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"list-sty",
+				"list-style-type\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"border",
+				"border\tproperty"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"borde",
+				"border-image\tproperty"
+			],
+			[
+				"mensa",
+				"mensajito"
+			],
+			[
+				"men",
+				"mensajito"
+			],
+			[
+				"fr",
+				"from"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"dis",
+				"display\tproperty"
+			],
+			[
+				"nc",
+				"ncontrol"
+			],
+			[
+				"a",
+				"atributo"
+			],
+			[
+				"e",
+				"edad"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"h_n",
+				"h_nombre"
+			],
+			[
+				"h_",
+				"h_tabla"
+			],
+			[
+				"alu",
+				"alumno"
+			],
+			[
+				"nw",
+				"newtr"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "api/controllers/comment.js",
+			"settings":
+			{
+				"buffer_size": 1527,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "api/models/publication.js",
+			"settings":
+			{
+				"buffer_size": 404,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "api/app.js",
+			"settings":
+			{
+				"buffer_size": 1253,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "api/index.js",
+			"settings":
+			{
+				"buffer_size": 579,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "client/src/app/components/timeline/timeline.component.html",
+			"settings":
+			{
+				"buffer_size": 8952,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "api/routes/comment.js",
+			"settings":
+			{
+				"buffer_size": 382,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/curso-mean-social",
+		"/C/wamp/www/curso-mean-social/api",
+		"/C/Users/lizbe/Downloads/red-social"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/curso-mean-social/client/src/app/components/timeline/timeline.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/publications/publications.component.html",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/publications/publications.component.ts",
+		"/C/wamp/www/curso-mean-social/api/routes/publication.js",
+		"/C/wamp/www/curso-mean-social/api/routes/comment.js",
+		"/C/wamp/www/curso-mean-social/api/models/comment.js",
+		"/C/wamp/www/curso-mean-social/api/controllers/publication.js",
+		"/C/wamp/www/curso-mean-social/api/node_modules/bson/lib/bson/map.js",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/sidebar/sidebar.component.html",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/timeline/timeline.component.html",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/user-edit/user-edit.component.html",
+		"/C/wamp/www/curso-mean-social/api/controllers/user.js",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/home/home.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/services/publication.service.ts",
+		"/C/wamp/www/curso-mean-social/api/node_modules/base/index.js",
+		"/C/wamp/www/curso-mean-social/api/controllers/compartir.js",
+		"/C/wamp/www/curso-mean-social/client/src/assets/styles.css",
+		"/C/wamp/www/curso-mean-social/api/controllers/comment.js",
+		"/C/wamp/www/curso-mean-social/api/controllers/follow.js",
+		"/C/wamp/www/curso-mean-social/api/models/publication.js",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/sidebar/sidebar.component.ts",
+		"/C/wamp/www/curso-mean-social2/curso-mean-social/client/src/app/components/sidebar/sidebar.component.ts",
+		"/C/wamp/www/curso-mean-social2/curso-mean-social/client/src/app/services/publication.service.ts",
+		"/C/wamp/www/curso-mean-social/api/node_modules/chalk/index.js",
+		"/C/Users/lizbe/Desktop/Paginawebcursosonline/php-login-simple-master/database.php",
+		"/C/wamp/www/curso-mean-social/client/README.md",
+		"/C/wamp/www/curso-mean-social/client/package.json",
+		"/C/wamp/www/curso-mean-social/client/package-lock.json",
+		"/C/wamp/www/curso-mean-social/client/karma.conf.js",
+		"/C/wamp/www/curso-mean-social/client/browserslist",
+		"/C/wamp/www/curso-mean-social/client/.gitignore",
+		"/C/wamp/www/curso-mean-social/client/.editorconfig",
+		"/C/wamp/www/curso-mean-social/api/models/like.js",
+		"/C/wamp/www/curso-mean-social/api/models/message.js",
+		"/C/wamp/www/curso-mean-social/api/models/user.js",
+		"/C/wamp/www/curso-mean-social/client/src/test.ts",
+		"/C/wamp/www/curso-mean-social/api/controllers/like.js",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/following/following.component.html",
+		"/C/wamp/www/curso-mean-social/api/package-lock.json",
+		"/C/wamp/www/curso-mean-social/api/index.js",
+		"/C/wamp/www/curso-mean-social/api/app.js",
+		"/C/wamp/www/curso-mean-social/client/src/index.html",
+		"/C/wamp/www/curso-mean-social/client/src/main.ts",
+		"/C/wamp/www/curso-mean-social/api/package.json",
+		"/C/wamp/www/curso-mean-social/api/middlewares/authenticated.js",
+		"/C/wamp/www/curso-mean-social/api/routes/follow.js",
+		"/C/wamp/www/curso-mean-social/client/src/app/models/publication.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/profile/profile.component.html",
+		"/C/wamp/www/curso-mean-social/api/models/compartir.js",
+		"/C/wamp/www/curso-mean-social/api/routes/like.js",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/register/register.component.html",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/followed/followed.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/following/following.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/register/register.component.ts",
+		"/C/wamp/www/curso-mean-social/api/models/follow.js",
+		"/C/wamp/www/curso-mean-social/api/node_modules/express/lib/router/route.js",
+		"/C/wamp/www/curso-mean-social/api/services/jwt.js",
+		"/C/wamp/www/curso-mean-social/api/routes/compartir.js",
+		"/C/wamp/www/curso-mean-social/api/routes/message.js",
+		"/C/wamp/www/curso-mean-social/api/uploads/publications/3nbEQJNpoujVDt9tfF-eJEc7.jpg",
+		"/C/wamp/www/curso-mean-social/api/uploads/publications/1v92i-4505Ivro9lLfpE01u5.jpg",
+		"/C/wamp/www/curso-mean-social/client/src/app/app.module.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/services/like.service.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/likes/likes.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/likes/likes.component.html",
+		"/C/wamp/www/curso-mean-social/client/src/app/models/like.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/models/message.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/models/user.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/models/follow.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/services/follow.service.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/services/user.service.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/app.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/like/likes.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/like/like.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/login/login.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/users/users.component.html",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/users/users.component.ts",
+		"/C/wamp/www/curso-mean-social/api/routes/user.js",
+		"/C/wamp/www/curso-mean-social/api/node_modules/bluebird/js/release/queue.js",
+		"/C/Users/lizbe/Downloads/red-social/client/src/app/components/user-edit/user-edit.component.ts",
+		"/C/Users/lizbe/Downloads/red-social/client/src/index.html",
+		"/C/Users/lizbe/Downloads/red-social/client/src/app/components/users/users.component.html",
+		"/C/Users/lizbe/Downloads/red-social/client/src/app/components/sidebar/sidebar.component.ts",
+		"/C/Users/lizbe/Downloads/red-social/client/src/app/components/timeline/timeline.component.ts",
+		"/C/Users/lizbe/Downloads/red-social/client/src/app/components/users/users.component.ts",
+		"/C/wamp/www/instalacion-angular5/node_modules/zone.js/lib/common/promise.ts",
+		"/C/Users/lizbe/Downloads/red-social/client/src/app/services/follow.service.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/services/user.guard.ts",
+		"/C/wamp/www/curso-mean-social/api/controllers/message.js",
+		"/C/wamp/www/curso-mean-social/client/src/app/messages/components/received/received.component.html",
+		"/C/wamp/www/curso-mean-social/client/src/app/messages/components/received/received.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/messages/components/add/add.component.ts",
+		"/C/wamp/www/curso-mean-social/client/node_modules/array-flatten/array-flatten.d.ts",
+		"/C/wamp/www/curso-mean-social/client/node_modules/@angular/forms/esm5/src/form_builder.js",
+		"/C/wamp/www/curso-mean-social/client/src/app/messages/messages-routing.module.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/messages/components/sended/sended.component.html",
+		"/C/wamp/www/curso-mean-social/client/src/app/messages/components/sended/sended.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/messages/components/add/add.component.html",
+		"/C/wamp/www/curso-mean-social/client/src/app/services/message.service.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/messages/components/main/main.component.html",
+		"/C/wamp/www/curso-mean-social/client/src/app/messages/messages.module.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/messages/components/main/main.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/followed/followed.component.html",
+		"/C/wamp/www/curso-mean-social/client/src/app/app.routing.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/profile/profile.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/app.component.html",
+		"/C/Users/lizbe/Downloads/red-social/api/routes/publication.js",
+		"/C/Users/lizbe/Downloads/red-social/api/controllers/publication.js",
+		"/C/Users/lizbe/Downloads/client/src/app/components/sidebar/sidebar.component.ts",
+		"/C/Users/lizbe/Downloads/red-social/client/src/app/components/sidebar/sidebar.component.html",
+		"/C/Users/lizbe/Downloads/red-social/client/src/assets/styles.css",
+		"/C/wamp/www/curso-mean-social/api/node_modules/mongoose/lib/statemachine.js",
+		"/C/Users/lizbe/Downloads/red-social/client/src/app/app.routing.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/users.component.ts",
+		"/C/Users/lizbe/Downloads/red-social/api/controllers/message.js",
+		"/C/Users/lizbe/Downloads/red-social/api/app.js",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/user-edit/user-edit.component.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/services/upload.service.ts",
+		"/C/wamp/www/curso-mean-social/api/services/upload.service.ts",
+		"/C/Users/lizbe/Downloads/red-social/client/src/app/services/user.service.ts",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/home/home.component.html",
+		"/C/wamp/www/curso-mean-social/client/src/app/components/login/login.component.html",
+		"/C/Users/lizbe/Downloads/red-social/client/src/app/app.component.html",
+		"/C/wamp/www/curso-mean-social/client/node_modules/@angular/common/esm2015/testing/src/location_mock.js",
+		"/C/Users/lizbe/Downloads/red-social/client/src/app/components/login/login.component.ts",
+		"/C/Users/lizbe/Downloads/red-social/client/src/app/components/login/login.component.html",
+		"/C/Users/lizbe/Downloads/red-social/api/middlewares/authenticated.js",
+		"/C/wamp/www/curso-mean-social/client/src/app/services/global.ts"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 151.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"login",
+			"newPubForm",
+			"form",
+			"yuyiu",
+			"publications",
+			"new-publication",
+			"publications",
+			"publication",
+			"publication.user",
+			"publication",
+			"btn\n",
+			">\n",
+			"getCounters",
+			"\t\t}",
+			"results",
+			"usr",
+			"p",
+			"alt=\"...\"",
+			"src=\"...\"",
+			"imagen",
+			"slider",
+			"fecha",
+			"hora",
+			"Fecha",
+			"TIME",
+			"HORA",
+			"Fecha",
+			"fecha",
+			"date",
+			"email",
+			"nombre",
+			"<br><br>",
+			"$_GET",
+			"body",
+			"<td></td>",
+			"https",
+			"https://www.itsa.edu.mx/nuevo/wp-content/uploads/2016/11/01-AED1285-Fundamentos-de-Programacion.pdf",
+			"texterrea",
+			"index.html",
+			"id=",
+			"></",
+			"partials",
+			"principal",
+			"username",
+			"']) && isset($_POST['password'])){\n    ",
+			"nombre",
+			"'.",
+			"joh",
+			"example",
+			"email",
+			"lastname",
+			"password",
+			"username",
+			"text",
+			"nombre",
+			"color",
+			"message",
+			"nombre",
+			"stmt",
+			"result",
+			"Sql",
+			"hoteles",
+			"MyGuests",
+			"password",
+			"username",
+			"Lizbeth",
+			"loginVerify",
+			"lupa",
+			"buscar",
+			"var",
+			"$var++;",
+			"Detalle",
+			"$tradiciones",
+			"h2",
+			"$restaurantes",
+			"restaurantes",
+			"$moteles",
+			"5px",
+			"estre",
+			"$hoteles",
+			"#",
+			"icon",
+			"$b",
+			"_POST",
+			"4",
+			".categorias",
+			"class=\"menu\"",
+			"div",
+			"left",
+			"tres",
+			"<li>",
+			"class",
+			"face",
+			"buscar",
+			"text",
+			"izq",
+			"I.S.C.",
+			"InfoApatzingán",
+			"mydb",
+			"VISIBLE",
+			"class=\"slide\"",
+			"slide",
+			"<div class=\"numbertext\">",
+			".</",
+			"Caption",
+			"<div class=\"text\">",
+			"style=\"width:100%\"",
+			"img",
+			"Three",
+			"/ 3",
+			"gray",
+			"black",
+			"+",
+			"cabecera"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"whit"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "api/controllers/comment.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1527,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 240.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "api/models/publication.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 404,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								404,
+								404
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "api/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1253,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "api/index.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 579,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "client/src/app/components/timeline/timeline.component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8952,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7861,
+								7861
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4260.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "api/routes/comment.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 382,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 53.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-mean-social.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 341.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
